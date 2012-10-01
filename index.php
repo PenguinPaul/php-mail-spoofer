@@ -21,7 +21,7 @@ if(!isset($_POST['password']))
 }
 
 
-if(isset($_POST['to']) && isset($_POST['from'])&& isset($_POST['fromname']) && isset($_POST['replyto']) && isset($_POST['subject']) && isset($_POST['message']) && $validpw)
+if(isset($_POST['to']) && isset($_POST['from']) && isset($_POST['fromname']) && isset($_POST['replyto']) && isset($_POST['subject']) && isset($_POST['message']) && $validpw)
 {
 	$headers = 'From: '.$_POST['fromname'].' <'.$_POST['from'].'>' . "\r\n" .
 	    'Reply-To: '. $_POST['replyto'] . "\r\n";
