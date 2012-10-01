@@ -9,3 +9,8 @@ Fork, spork, spoon, do whatever the hell you want with it otherwise.
 Todo:
 
 I'll be working on just making the UI cleaner.  That's about all one can improve on this.  Maybe a spot for additional headers.
+
+Credits:
+
+Coding: me, aka PenguiPaul, Paul H., PJGIH, etc
+Shoutout to my girlfriend Evvy.
