@@ -8,7 +8,7 @@ define("PASSWORD","mahnamahna");
 $validpw = false;
 
 
-if(!isset($_POST['password']))
+if(!isset($_POST['password']) || $_POST['password'] == '')
 {
 	$mail = '<div style="color:red">You need a password to send mail.  Be sure to enter it.</div>';
 	$validpw = false;
