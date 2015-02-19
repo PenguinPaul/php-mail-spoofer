@@ -13,4 +13,3 @@ I'll be working on just making the UI cleaner.  That's about all one can improve
 Credits:
 
 Coding: me, aka PenguinPaul, Paul H., PJGIH, etc
-Shoutout to my girlfriend Evvy.
