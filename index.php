@@ -1,9 +1,9 @@
 <?php
-//fake mail sender
+//fake mail sender by PenguinPaul
 
 
 define("PASSWORD","mahnamahna");
-
+//Here you can set a password
 
 $validpw = false;
 
